@@ -1,5 +1,7 @@
 可參考我在Heptabase上的[筆記](https://app.heptabase.com/p/whiteboard/24984eb9-f299-4866-832e-8b9bf301ef27)
 
+[Udemy課程證書](https://www.udemy.com/certificate/UC-f419ba06-0a61-4f8f-bdfc-05cab8038a14/) 
+
 ## 筆記內容整理
 
 這是一個用來紀錄與演練 Git 版本控制與 GitHub 協作的 Demo 專案，整理了從基礎指令、分支操作、遠端協作到底層運作機制的實用筆記。
